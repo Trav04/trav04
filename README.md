@@ -1,5 +1,5 @@
-## Hi there 👋
-
+## Hi there 👋 I'm Travis!
+## I'm an electrical engineer and software developer.
 <!--
 **Trav04/trav04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
